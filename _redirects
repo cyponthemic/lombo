@@ -1,0 +1,9 @@
+/pages/faq	/faqs
+/products/*	/
+/pages/how-it-works	/faqs
+/collections/all	/
+/pages/where-we-deliver /deliveries
+
+/_nuxt/*    /_nuxt/:splat  404
+
+*   /200.html   200
